@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "From the heart of Nashville to the center of Geneva"
+    text: "A little bit about my journey"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -63,6 +63,11 @@ en: &DEFAULT_EN
         year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
+        alt:
+        - title: "Most Recent Endeavors"
+        year: "2009-2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/1.jpg
         alt:
         # you can enforce the alignment
         align: right
