@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: about
     - title: "Timeline"
       section: timeline
-    - title: "Team"
+    - title: "Test"
       section: team
   #  - title: "Contact"
   #    section: contact
