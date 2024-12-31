@@ -12,39 +12,39 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to my site
-    text: Allow me to introduce myself
+    text: LET ME INTRODUCE MYSELF
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "These"
+    text: "Skills to pay the bills"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Data Analytics"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Business Intelligence"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "IT"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Projects I've had the privilege of working on"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "From the heart of Nashville to the center of Geneva"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
+      - title: "Most Recent Endeavors"
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
@@ -69,9 +69,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "Who is this guy?"
+    body: "I'm from Nashville, Tennessee and currently based in Geneva, Switzerland. I'm passionate about data analytics, technology and social development. I hold a Bachelor of Business Administration from IAE Lille and I'm finalizing an MBA in Data Science at the Swiss School of Business and Management"
     section: about
 
   clients:
