@@ -70,8 +70,8 @@ en: &DEFAULT_EN
         image: assets/img/timeline/1.jpg
         alt:
         # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+        align: left
+    end: "I <br> am <br> here!"
 
   about:
     title: "About Me"
