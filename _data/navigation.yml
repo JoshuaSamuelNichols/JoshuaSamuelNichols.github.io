@@ -21,9 +21,9 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
+  #  - title: "Contact"
       section: contact
-    - title: "Theme Source"
+  #  - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
@@ -48,9 +48,9 @@ es: &DEFAULT_ES
       section: cronologia
     - title: "Equipo"
       section: equipo
-    - title: "Contáctenos"
+ #   - title: "Contáctenos"
       section: contacto
-    - title: "Fuente de la plantilla"
+ #   - title: "Fuente de la plantilla"
       url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
