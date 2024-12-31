@@ -22,9 +22,9 @@ en: &DEFAULT_EN
     - title: "Team"
       section: team
   #  - title: "Contact"
-      section: contact
+  #    section: contact
   #  - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+  #    url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -49,9 +49,9 @@ es: &DEFAULT_ES
     - title: "Equipo"
       section: equipo
  #   - title: "Contáctenos"
-      section: contacto
+ #     section: contacto
  #   - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+ #     url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
