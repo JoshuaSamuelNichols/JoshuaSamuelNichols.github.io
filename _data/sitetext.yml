@@ -11,23 +11,23 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to my site
-    text: LET ME INTRODUCE MYSELF
-    button: Tell Me More
+   # title: Welcome to my site
+    text: HI, I'M JOSHUA
+    button: TELL ME MORE
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Skills"
     text: "Skills to pay the bills"
     section: services
     list:
       - title: "Data Analytics"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "I use **Python** and its powerful libraries (such as Pandas, NumPy, Seaborn and Matplotlib) perform advanced data analytics, **SQL** for querying and managing databases, **Jupyter Notebook** for developing and sharing data workflows, **Azure Synapse Analytics** for **big data** processing, Azure Data Factory for **ETL workflows** to further enhance data analytics capabilities, and **Excel** for detailed **data manipulation** and **analysis**. By combining these tools, I extract **actionable insights** from complex datasets, uncover trends, and provide **data-driven** recommendations to support **strategic decisions**."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Business Intelligence"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "IT"
+      - title: "Information Technology"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
@@ -44,28 +44,28 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Most Recent Endeavors"
-        year: "2009-2011"
+      - title: "I&M Electrical Contractors – Electrical Technician & Administrative Assistant"
+        year: "2007-2014"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "UNHCR – Data Production Intern"
+        year: "2014"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "ITU - Junior Project Officer"
+        year: "2017"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
+      - title: "Caux Initiatives of Change - CRM Data Analyst"
+        year: "2024"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "Most Recent Endeavors"
-        year: "2009-2011"
+      - title: "Proton - Affiliate Partner"
+        year: "2023 - Current"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "Who is this guy?"
-    body: "I'm from Nashville, Tennessee and currently based in Geneva, Switzerland. I'm passionate about data analytics, technology and social development. I hold a Bachelor of Business Administration from IAE Lille and I'm finalizing an MBA in Data Science at the Swiss School of Business and Management"
+    body: "I'm from Nashville, Tennessee and currently based in Geneva, Switzerland. I'm passionate about data analytics, sustainability and social development through technology. I hold a Bachelor of Business Administration from IAE Lille and I'm finalizing an MBA in Data Science at the Swiss School of Business and Management"
     section: about
 
   clients:
