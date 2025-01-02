@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Data Analytics"
-        desc: "I use **Python** and its powerful libraries (such as Pandas, NumPy, Seaborn and Matplotlib) perform advanced data analytics, **SQL** for querying and managing databases, **Jupyter Notebook** for developing and sharing data workflows, **Azure Synapse Analytics** for **big data** processing, Azure Data Factory for **ETL workflows** to further enhance data analytics capabilities, and **Excel** for detailed **data manipulation** and **analysis**. By combining these tools, I extract **actionable insights** from complex datasets, uncover trends, and provide **data-driven** recommendations to support **strategic decisions**."
+        desc: "I use Python and its powerful libraries (such as Pandas, NumPy, Seaborn and Matplotlib) to create advanced data analytics, SQL for **querying and managing databases**, Jupyter Notebook for **developing and sharing data workflows**, Microsoft Azure for **big data processing** and Excel for **data manipulation**. Using these tools, I create **insightful visualizations** that tell **compelling data-driven stories**, perform exploratory data analyses (EDAs), and deliver both **descriptive** and **prescriptive analytics** to inform **decision-making**."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Business Intelligence"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "With Microsoft Power BI, I transform raw data into **interactive dashboards** and **comprehensive reports** that empower stakeholders to track **KPIs** and business performance. I **integrate diverse data sources** and **develop custom measures** to uncover **actionable insights** and trends that lead to **data-driven strategic decisions**."
         icon: fas fa-laptop
       - title: "Information Technology"
-        desc: "Your description here, full **Markdown** support"
+        desc: "I manage and optimize database systems such as **CRM** and **ERP platforms** to enhance operational efficiency and customer engagement. I ensure **computer security** by implementing **robust measures** to safeguard sensitive data and maintaining **IT infrastructure** through proactive **system administration**. This comprehensive approach supports **organizational growth** and **resilience** in a technology-driven world."
         icon: fab fa-markdown
 
   portfolio:
@@ -46,27 +46,27 @@ en: &DEFAULT_EN
     events:
       - title: "I&M Electrical Contractors – Electrical Technician & Administrative Assistant"
         year: "2007-2014"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "I began my career contributing to Nashville’s growth, working on electrical systems both in the field and through administrative tasks. From climbing tall ladders to ensuring project organization, I gained hands-on experience installing, maintaining, and inspecting electrical systems in commercial and industrial settings. With a focus on safety and compliance, I developed a foundation in precision work and efficient administration."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "UNHCR – Data Production Intern"
         year: "2014"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "During my internship at the United Nations High Commissioner for Refugees, I honed my database management and data analysis skills within the humanitarian sector. I managed official UNHCR documents, organized metadata to improve search functionality, and processed large data sets for refugee-related reports. Additionally, I utilized CAD/CAM software to create publications, supporting the agency’s mission to promote SDGs."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "ITU - Junior Project Officer"
         year: "2017"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "I managed databases, supported projects, and created data-driven reports for this technology-focused NGO. I organized and contributed the WSIS 2017 Prizes ceremonies, supported sustainability through social media campaigns, and created analytics to guide organizational efforts."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Caux Initiatives of Change - CRM Data Analyst"
         year: "2024"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "I analyzed CRM data, recommended cost-effective marketing platforms, and provided actionable insights through reports. By conducting needs assessments and research interviews, I helped streamline operations and align solutions with team requirements."
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Proton - Affiliate Partner"
         year: "2023 - Current"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "As an advocate for online privacy, I partnered with Proton to educate and inspire audiences about data security. I create content and lead sessions on privacy rights while matching user needs with Proton’s encrypted technologies, helping individuals encrypt their digital lives."
         image: assets/img/timeline/1.jpg
         alt:
         # you can enforce the alignment
