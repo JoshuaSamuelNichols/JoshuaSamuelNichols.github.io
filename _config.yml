@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : Start
+title      : Joshua's Portfolio
 email      : joshuasnichols@proton.me #this is also the email contact forms will go to
 description: ""
 author     : Joshua Samuel Nichols
