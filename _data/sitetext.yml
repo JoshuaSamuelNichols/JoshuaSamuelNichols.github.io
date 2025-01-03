@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Data Analytics"
         desc: "I use Python and its powerful libraries (such as Pandas, NumPy, Seaborn and Matplotlib) to create advanced data analytics, SQL for **querying and managing databases**, Jupyter Notebook for **developing and sharing data workflows**, Microsoft Azure for **big data processing** and Excel for **data manipulation**. Using these tools, I create **insightful visualizations** that tell **compelling data-driven stories**, perform exploratory data analyses (EDAs), and deliver both **descriptive** and **prescriptive analytics** to inform **decision-making**."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
       - title: "Business Intelligence"
         desc: "With Microsoft Power BI, I transform raw data into **interactive dashboards** and **comprehensive reports** that empower stakeholders to track **KPIs** and business performance. I **integrate diverse data sources** and **develop custom measures** to uncover **actionable insights** and trends that lead to **data-driven strategic decisions**."
-        icon: fas fa-laptop
+        icon: fas fa-magnifying-glass-chart
       - title: "Information Technology"
         desc: "I manage and optimize database systems such as **CRM** and **ERP platforms** to enhance operational efficiency and customer engagement. I ensure **computer security** by implementing **robust measures** to safeguard sensitive data and maintaining **IT infrastructure** through proactive **system administration**. This comprehensive approach supports **organizational growth** and **resilience** in a technology-driven world."
-        icon: fab fa-markdown
+        icon: fas fa-computer
 
   portfolio:
     title: "Portfolio"
@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "Who is this guy?"
-    body: "I'm from Nashville, Tennessee and currently based in Geneva, Switzerland. I'm passionate about data analytics, sustainability and social development through technology. I hold a Bachelor of Business Administration from IAE Lille and I'm finalizing an MBA in Data Science at the Swiss School of Business and Management"
+    body: "I'm from Nashville, Tennessee and currently based in Geneva, Switzerland. I'm passionate about **data analytics, sustainability and social development** through technology. I hold a Bachelor of Business Administration from IAE Lille and I'm finalizing an MBA in Data Science at the Swiss School of Business and Management. Growing up, I was deeply involved in **serving those in need** through **community outreach** and **ministry work**. I frequently supported individuals at the **Nashville Rescue Mission**, helping to **uplift those facing challenging circumstances**. I also participated in **ministry efforts within prisons**, bringing **encouragement and hope** to those in difficult situations. Beyond local efforts, I contributed my skills to **Mercy Ships in Switzerland**, supporting their mission to **provide medical care to underserved communities**. Additionally, I am a **proud donor to Extra Life**, combining my **passion for well-being** with **advocacy for children’s health**. I am **blessed and proud** to have a family whose support and shared dedication made these **meaningful experiences come to fruition**, which also built the foundation for my **passion for a sustainable future**."
     section: about
 
   clients:
