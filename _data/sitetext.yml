@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-   # title: Welcome to my site
-    text: HI, I'M JOSHUA
+    title: Hey, I'm Joshua
+    text: Let's Talk Data
     button: TELL ME MORE
     buttonlink: "#services"
 
