@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "Who is this guy?"
-    body: "I'm from Nashville, Tennessee and currently based in Geneva, Switzerland. I'm passionate about **data analytics, sustainability and social development** through technology. I hold a Bachelor of Business Administration from IAE Lille and I'm finalizing an MBA in Data Science at the Swiss School of Business and Management. Growing up, I was deeply involved in **serving those in need** through **community outreach** and **ministry work**. I frequently supported individuals at the **Nashville Rescue Mission**, helping to **uplift those facing challenging circumstances**. I also participated in **ministry efforts within prisons**, bringing **encouragement and hope** to those in difficult situations. Beyond local efforts, I contributed my skills to **Mercy Ships in Switzerland**, supporting their mission to **provide medical care to underserved communities**. Additionally, I am a **proud donor to Extra Life**, combining my **passion for well-being** with **advocacy for children’s health**. I am **blessed and proud** to have a family whose support and shared dedication made these **meaningful experiences come to fruition**, which also built the foundation for my **passion for a sustainable future**."
+    body: "I'm from Nashville, Tennessee and currently based in Geneva, Switzerland. I'm passionate about **data analytics, sustainability and social development** through technology. I hold a Bachelor of Business Administration from IAE Lille and I'm finalizing an MBA in Data Science at the Swiss School of Business and Management. Growing up, I was deeply involved in **serving those in need** through **community outreach** and **ministry work**. I frequently supported individuals at the **Nashville Rescue Mission**, helping to **uplift families facing challenging circumstances**. I also participated in **ministry efforts within prisons**, bringing **encouragement and hope** to those in difficult situations. Beyond local efforts, I contributed my services to **Compassion Switzerland**, supporting their mission to **provide medical care to children in poverty**. Additionally, I am a **proud donor to the Extra Life program**, combining my **passion for well-being** with **advocacy for children’s health**. I am **blessed and proud** to have a family whose support and shared dedication made these **meaningful experiences come to fruition**, which also built the foundation for my **passion for a sustainable future**."
     section: about
 
   clients:
@@ -98,9 +98,9 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Socials"
+    text: "Feel free to connect with me on these platforms."
+    subtext: Fight until data_privacy = True
     section: team
     people:
       - name: "Kay Garland"
