@@ -107,12 +107,12 @@ en: &DEFAULT_EN
    #     role: "Lead Designer"
    #     image: assets/img/team/500x500.jpg
    #    social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+   #       - url: https://twitter.com
+   #         icon: fab fa-twitter
+   #       - url: https://facebook.com
+   #         icon: fab fa-facebook-f
+   #       - url: https://linkedin.com
+   #         icon: fab fa-linkedin-in
       - name: "Joshua Samuel Nichols"
         role: "Analyst"
         image: assets/img/team/2.jpg
@@ -120,48 +120,48 @@ en: &DEFAULT_EN
           - url: https://github.com/JoshuaSamuelNichols
             icon: fab fa-github
           - url: https://instagram.com/nichols.tech
-            icon: fab fa-square-instagram
+            icon: fab fa-instagram
           - url: https://www.linkedin.com/in/joshuasamuelnichols/
             icon: fab fa-linkedin-in
   #    - name: "Diana Perterson"
   #      role: "Lead Developer"
   #      image: assets/img/team/500x500.jpg
    #     social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+  #        - url: https://twitter.com
+  #          icon: fab fa-twitter
+  #        - url: https://facebook.com
+  #          icon: fab fa-facebook-f
+  #        - url: https://linkedin.com
+  #          icon: fab fa-linkedin-in
 
 #  contact:
 #    title: "Contact Us"
 #    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+#    section: contact
+#    name: "Name*"
+#    name-validation: "Please enter your name."
+#    email: "Email*"
+#    email-validation: "Please enter your email address."
+#    phone: "Phone Number"
+#    phone-validation: "Please enter your phone number."
+#    message: "Message*"
+#    message-validation: "Please enter a message."
+#    subject: "Contact Form Submission"
+#    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
  #   social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+ #     - url: https://twitter.com
+ #       icon: "fab fa-twitter"
+ #     - url: https://facebook.com
+ #       icon: "fab fa-facebook-f"
+ #     - url: https://linkedin.com
+ #       icon: "fab fa-linkedin-in"
+ #     - url: https://github.com/raviriley/agency-jekyll-theme
+ #       icon: "fab fa-github"
+  #    - url: https://instagram.com
+  #      icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
