@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon:  fas fa-chart-area #find more at https://fontawesome.com/icons
       - title: "Business Intelligence"
         desc: "With Microsoft Power BI, I transform raw data into **interactive dashboards** and **comprehensive reports** that empower stakeholders to track **KPIs** and business performance. I **integrate diverse data sources** and **develop custom measures** to uncover **actionable insights** and trends that lead to **data-driven strategic decisions**."
-        icon:  fas fa-chart-simple
+        icon:  fas fa-solid fa-chart-pie
       - title: "Information Technology"
         desc: "I manage and optimize database systems such as **CRM** and **ERP platforms** to enhance operational efficiency and customer engagement. I ensure **computer security** by implementing **robust measures** to safeguard sensitive data and maintaining **IT infrastructure** through proactive **system administration**. This comprehensive approach supports **organizational growth** and **resilience** in a technology-driven world."
         icon: fas fa-laptop-code
