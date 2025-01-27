@@ -55,7 +55,7 @@ WSIS Stocktaking 2017, WSIS Forum 2017 Outcome Document
 ➤ Generated the official WSIS Social Media Analysis Report and Strategy Guide
 
 ---
-# Documents
+# Reports
 
 [WSIS Forum 2017 Outcome Document](https://www.itu.int/en/itu-wsis/Documents/wf17/WSISForum2017_ForumTrackOutcomes.pdf)
 
@@ -65,7 +65,10 @@ WSIS Stocktaking 2017, WSIS Forum 2017 Outcome Document
 
 ---
 
-![image](https://github.com/user-attachments/assets/09e3b583-5850-48b4-b48b-e8ba79f64e16)
+![image](https://github.com/user-attachments/assets/246b0ce3-d82f-4517-8863-7b20c6bf7973)
+
+
+
 
 
 
