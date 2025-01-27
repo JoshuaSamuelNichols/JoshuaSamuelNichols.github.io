@@ -65,13 +65,13 @@ WSIS Stocktaking 2017, WSIS Forum 2017 Outcome Document
 
 ---
 
-<img src="https://github.com/user-attachments/assets/246b0ce3-d82f-4517-8863-7b20c6bf7973" width="300" />
+<img src="https://github.com/user-attachments/assets/246b0ce3-d82f-4517-8863-7b20c6bf7973" width="400" />
 
-<img src="https://github.com/user-attachments/assets/841dc28a-cfb1-48ec-8151-43aecb1e2c65" width="300" />
+<img src="https://github.com/user-attachments/assets/841dc28a-cfb1-48ec-8151-43aecb1e2c65" width="400" />
 
-<img src="https://github.com/user-attachments/assets/0bf38f2b-17c2-480b-8cca-816545b86c21" width="300" />
+<img src="https://github.com/user-attachments/assets/0bf38f2b-17c2-480b-8cca-816545b86c21" width="400" />
 
-<img src="https://github.com/user-attachments/assets/5d7805b9-b780-4717-ba80-74881b02683a" width="300" />
+<img src="https://github.com/user-attachments/assets/5d7805b9-b780-4717-ba80-74881b02683a" width="400" />
 
 
 
