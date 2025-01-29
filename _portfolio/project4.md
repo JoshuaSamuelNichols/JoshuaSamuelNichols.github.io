@@ -13,7 +13,7 @@ caption:
 
 This project contains an **SQL database** storing some of my students, their chosen **instruments**, and **years** of enrollment throughout the previous years. For data privacy purposes, this is a consolidated version of my database to showcase the minimal design, and not all of the confidential material.
 
-```sql
+``` sql
 -- How I start my scripts
 CREATE DATABASE NashvilleMusicSchoolDB;
 USE NashvilleMusicSchoolDB;
