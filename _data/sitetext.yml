@@ -67,7 +67,7 @@ en: &DEFAULT_EN
       - title: "Proton - Affiliate Partner"
         year: "2023 - Current"
         desc: "As an advocate for online privacy, I partnered with Proton to educate and inspire audiences about data security. I create content and lead sessions on privacy rights while matching user needs with Proton’s encrypted technologies, helping individuals encrypt their digital lives."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/5.jpg
         alt:
         # you can enforce the alignment
         align: left
