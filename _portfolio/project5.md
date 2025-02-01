@@ -1,15 +1,14 @@
 ---
-title: Pokémon Strength Analysis: Highest Attack & Special Attack from Gen 1-6
+title: Pokémon Strength Analysis 
 subtitle: Insights uncovered through Python-powered exploratory data analysis and visualizations.
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title:  Pokémon Analysis
+  title: Pokémon Analysis
   subtitle: Jupyter Notebook, Python, Analytics
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-
 # Pokemon Strength Analysis: Highest Attack & Special Attack from Gen 1-6
 
 <p align="center">
