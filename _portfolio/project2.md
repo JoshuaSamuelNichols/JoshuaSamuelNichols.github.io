@@ -5,7 +5,7 @@ image: assets/img/portfolio/02-full.jpg
 alt: A sustainable future for all
 
 caption:
-  title: Sustainable Future
+  title: Tech & Sustainability
   subtitle: Reports and Projects
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
@@ -22,7 +22,7 @@ By addressing the complex intersection of ICT, development, and sustainability, 
 
 As a passionate advocate for promoting sustainability through technology, I have been deeply involved in initiatives aimed at helping developing countries harness innovative solutions to tackle global challenges. My role at the World Summit on the Information Society (WSIS) allowed me to contribute directly to the promotion of the United Nations' Sustainable Development Goals (SDGs), in partnership with the International Telecommunication Union (ITU). Together, we worked to drive ICT solutions that empower communities around the world.
 
-I contributed to several key areas of the WSIS organization, including **database management**, **project management**, **social media strategy**, and **event coordination**. A significant part of my work involved **reviewing and investigating over 3,000 project submissions** for the WSIS Forum, ensuring each submission aligned with the 17 UN SDGs. Additionally, I **managed the database of reviewed projects**, optimizing the system to improve accessibility and streamline processes for the global community.
+I contributed to several key areas of the WSIS initiative, including **database management**, **stocktaking**, **project management**, **social media strategy**, and **event coordination**. A significant part of my work involved **reviewing and investigating over 3,000 project submissions** for the WSIS Forum, ensuring each submission aligned with the 17 UN SDGs. Additionally, I **managed the database of reviewed projects**, optimizing the system to improve accessibility and streamline processes for the global community.
 
 Beyond these technical tasks, I made important contributions to the **WSIS Reports**, including the *2017 WSIS Stocktaking Success Stories* and the *WSIS Forum 2017 Outcome Document*. These reports are key in tracking the progress of ICT-driven initiatives toward global development goals. I was also actively involved in organizing high-profile events, such as the **TEDx Geneva event**, where I played a central role in aligning discussions with themes of sustainable innovation. 
 
