@@ -5,8 +5,8 @@ image: assets/img/portfolio/01-full.jpg
 alt: 
 
 caption:
-  title: Microsoft Power BI
-  subtitle: Dashboards
+  title: Business Intelligence
+  subtitle: Dashboards, Analytics, Reports
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Using Microsoft Power BI, I transform data into dashboards and visualizations that tell powerful stories and drive business acceleration and create intuitive reports that track key performance indicators (KPIs) and uncover actionable insights. My passion and expertise in bridging the gap between data and decision-making helps ensure businesses to make informed choices with clarity and confidence.
