@@ -31,24 +31,28 @@ Through **rigorous analysis**, **strategic recommendations**, and **stakeholder 
 
 # Summary
 
-### Needs Analysis & Stakeholder Engagement
 ➤  Conducted need mapping interviews to understand team requirements.
+
 ➤  Led extensive research to assess CRM functionalities and identify optimal solutions.
+
 ➤  Facilitated focus groups with key stakeholders to prioritize CRM features and integration needs.
 
-### Data Analysis & Reporting
 ➤ Analyzed different CRM solution options to align with organizational goals.
+
 ➤ Generated analytical reports that provided decision support for executive leadership.
+
 ➤ Identified trends and insights to enhance user engagement and CRM efficiency.
 
-### Cost Optimization & Solution Recommendation
 ➤ Recommended data-driven CRM alternatives that reduced costs from CHF 16,000+ for three years to CHF 1,500 per year.
+
 ➤ Provided strategic insights on cost-efficient marketing platforms that align with the organization's needs.
+
 ➤ Suggested CRM replacements that improved data management and user adoption.
 
-### Quality Assurance & Continuous Improvement
 ➤ Established data quality checks to ensure CRM integrity.
+
 ➤ Advised on automation opportunities to streamline CRM operations.
+
 ➤ Monitored industry trends and best practices to enhance CRM functionalities.
 
 
