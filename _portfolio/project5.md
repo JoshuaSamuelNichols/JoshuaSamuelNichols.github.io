@@ -16,14 +16,14 @@ caption:
 
 Proton is a **Swiss-based privacy company** offering **end-to-end encrypted tools** to protect personal data from surveillance and exploitation. Founded at CERN in 2014, Proton started with **Proton Mail**, the world’s first encrypted email service, and has since expanded into a full privacy ecosystem:  
 
-- **Proton Mail** – Encrypted email with zero-access encryption  
-- **Proton VPN** – A no-logs, open-source VPN for privacy and censorship resistance  
-- **Proton Calendar** – A fully encrypted calendar to protect schedules and event details  
-- **Proton Drive** – Secure cloud storage with end-to-end encryption  
-- **Proton Pass** – A password manager with encrypted notes and 2FA  
-- **Proton Wallet** – A privacy-focused digital wallet  
-- **Proton Sentinel** – A dark web monitoring service to detect data breaches
-- 
+ **Proton Mail** – Encrypted email with zero-access encryption  
+ **Proton VPN** – A no-logs, open-source VPN for privacy and censorship resistance  
+ **Proton Calendar** – A fully encrypted calendar to protect schedules and event details  
+ **Proton Drive** – Secure cloud storage with end-to-end encryption  
+ **Proton Pass** – A password manager with encrypted notes and 2FA  
+ **Proton Wallet** – A privacy-focused digital wallet  
+ **Proton Sentinel** – A dark web monitoring service to detect data breaches
+
 ---
 
 ## **Proton’s Mission: Privacy as a Human Right**  
