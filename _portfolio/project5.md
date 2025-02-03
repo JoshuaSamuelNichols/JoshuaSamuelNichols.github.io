@@ -28,7 +28,7 @@ Proton is a **Swiss-based privacy company** offering **end-to-end encrypted tool
 
 ## **Proton’s Mission: Privacy as a Human Right**  
 
-Proton believes in an internet where **privacy is the default**. Unlike Big Tech, Proton **never tracks, sells, or shares user data**. Their **zero-access encryption** ensures that only you—not Proton, governments, or third parties—can access your data.  
+Proton believes in an internet where **privacy is the default**. Unlike Big Tech, Proton **never tracks, sells, or shares user data**. Their **zero-access encryption** ensures that only you, not Proton, governments, or third parties can access your data.  
 
 ---
 
@@ -36,9 +36,9 @@ Proton believes in an internet where **privacy is the default**. Unlike Big Tech
 
 Switzerland has some of the world’s **strongest privacy laws**, and Proton is fully governed by Swiss jurisdiction:  
 
-- **Strict Swiss Data Laws (FADP)** – No mass surveillance  
-- **Not Subject to U.S./EU Laws** – Protected from the CLOUD Act & intelligence-sharing agreements  
-- **Legal Challenges Against Overreach** – Proton fights excessive data requests to protect users  
+ **Strict Swiss Data Laws (FADP)** – No mass surveillance  
+ **Not Subject to U.S./EU Laws** – Protected from the CLOUD Act & intelligence-sharing agreements  
+ **Legal Challenges Against Overreach** – Proton fights excessive data requests to protect users  
 
 ---
 
@@ -46,17 +46,17 @@ Switzerland has some of the world’s **strongest privacy laws**, and Proton is 
 
 In 2024, Proton became the **Proton Foundation**, a **non-profit** dedicated to **privacy, security, and digital rights**. This ensures Proton’s mission stays independent, protecting users rather than maximizing profit. As a foundation, Proton:  
 
-- **Can never be acquired by Big Tech or investors with conflicting interests**  
-- **Will always prioritize privacy over profit**  
-- **Advocates for stronger digital rights globally**  
+ **Can never be acquired by Big Tech or investors with conflicting interests**  
+ **Will always prioritize privacy over profit**  
+ **Advocates for stronger digital rights globally**  
 
 ---
 
 ## **Interested in taking control of your privacy?**  
 
-With Proton, you can reclaim your digital freedom. Protect your emails, files, passwords, browsing, and finances from surveillance with **Proton’s encrypted ecosystem**.  
+With Proton, you can reclaim your digital freedom. Protect your emails, agenda, files, passwords, browsing, and finances from surveillance with **Proton’s encrypted ecosystem**.  
 
-🔐 **Click here if you're ready to** [join the fight for data privacy rights](https://go.getproton.me/SH123)  
+🔐 [Join the privacy movement and sign up with a free or discounted Proton subscription here.](https://go.getproton.me/SH123)  
 
 ---
 
@@ -80,7 +80,7 @@ With Proton, you can reclaim your digital freedom. Protect your emails, files, p
 
 ➤ Highlighting real-world cases of privacy breaches and surveillance – Raising awareness by sharing documented cases of mass surveillance, government overreach, and corporate data exploitation, reinforcing why digital privacy is essential.
 
-➤ Participating in global privacy campaigns and movements – Aligning with international privacy advocates, organizations like EFF, and initiatives such as Privacy Week to push for stronger online protections worldwide.
+➤ Participating in global privacy campaigns and movements – Aligning with international privacy advocates, and initiatives for stronger online protections worldwide.
 
 ➤ Creating multilingual educational content on privacy – Producing privacy awareness materials in German, French, Italian, and English to reach diverse audiences within Switzerland and beyond.
 
