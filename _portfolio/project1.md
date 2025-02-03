@@ -16,7 +16,7 @@ With expertise in data modeling, DAX, and interactive reporting, I thrive on des
 # Dashboards I've Created
 
 
-<img src="https://github.com/user-attachments/assets/2a4aab69-f019-493d-81ab-60da487ab7dc" width="1000" />
+<img src="https://github.com/user-attachments/assets/2a4aab69-f019-493d-81ab-60da487ab7dc" width="400" />
 
 {:.list-inline}
 - Date: January 2023+
