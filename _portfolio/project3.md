@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 
-# Introduction to Initiatives of Change
+# About Initiatives of Change
 
 Frank Buchman, an American Lutheran pastor, founded an organization in the early 20th century called Moral Re-Armament (MRA), later evolving into Initiatives of Change (IofC). His mission focused on promoting personal and social transformation through the practice of integrity, honesty, and moral leadership. Buchman believed that individual moral change could lead to global peace and reconciliation, and his movement gained traction internationally as it worked toward bridging cultural and political divides.
 
