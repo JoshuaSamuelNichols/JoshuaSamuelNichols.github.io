@@ -8,8 +8,10 @@ caption:
   title: Tech & Sustainability
   subtitle: Reports and Projects
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  
 ---
-# Introduction to WSIS 
+
+# About WSIS 
 The World Summit on the Information Society (WSIS) Forum 2017 stands as the world’s largest annual gathering of the global ‘ICT for development’ community. This influential event serves as a premier global multi-stakeholder platform, dedicated to advancing the implementation of the WSIS Action Lines, which are critical to the pursuit of sustainable development across the world. The Forum is co-organized by a coalition of key international organizations, including the International Telecommunication Union (ITU), UNESCO, UNDP, and UNCTAD, working in close collaboration with various UN entities such as UNDESA, FAO, UNEP, WHO, UN Women, WIPO, WFP, ILO, WMO, ITC, UPU, UNODC, UNICEF, and the UN Regional Commissions.
 
 The WSIS Forum plays a pivotal role in fostering the exchange of information and knowledge, facilitating the sharing of best practices, and identifying emerging trends that shape the future of Information and Knowledge Societies. It also serves as a platform for building strategic partnerships aimed at advancing the global development agenda through the use of Information and Communication Technologies (ICTs).
@@ -17,6 +19,8 @@ The WSIS Forum plays a pivotal role in fostering the exchange of information and
 In the context of the United Nations’ broader goals, the WSIS Forum aligns its efforts with the outcomes of the UN General Assembly's Overall Review of the Implementation of WSIS Outcomes (Res. A/70/125) and the adoption of the 2030 Agenda for Sustainable Development (Res. A/70/1). As a result, the WSIS Forum is a dynamic and evolving platform, increasingly focused on ensuring that the WSIS Action Lines are in sync with the Sustainable Development Goals (SDGs). The Forum has become an essential space for discussing how ICTs can be leveraged as a critical means of implementing the SDGs, while ensuring alignment with the global mechanisms for follow-up and review of the 2030 Agenda for Sustainable Development.
 
 By addressing the complex intersection of ICT, development, and sustainability, the WSIS Forum remains a cornerstone event, guiding global efforts to achieve a more inclusive and sustainable world through technology and innovation.
+
+---
 
 # Key Achievements
 
@@ -33,6 +37,7 @@ In my social media strategy role, I **managed the WSIS Process social media chan
 Through these experiences, I have been able to combine my passion for sustainability, technology, and social impact to create lasting opportunities for developing countries, empowering them to leverage technology as a force for positive change.
 
 ---
+
 # Summary
 
 ➤ Reviewed 3000+ projects from the list of submissions for the WSIS Forum in accordance to the 17 UN Sustainable Development Goals (SDGs)
