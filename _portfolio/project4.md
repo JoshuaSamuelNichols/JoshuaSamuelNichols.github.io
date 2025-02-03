@@ -6,10 +6,11 @@ alt:
 
 caption:
   title: Database Management
-  subtitle: SQL, Database
+  subtitle: SQL, Database Management
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-# 🎸 Student Music Database
+
+# 🎸 Nashville Music School's Student Database
 
 This project contains an **SQL database** storing some of my students, their chosen **instruments**, and **years** of enrollment throughout the previous years. For data privacy purposes, this is a consolidated version of my database to showcase the minimal design, and not all of the confidential material.
 
@@ -117,7 +118,7 @@ ORDER BY num_students DESC;
 ```
 
 {:.list-inline}
-- Date: October 2016+
+- Date: October 2015+
 - Database: Nashville Music School
 - Category: SQL, Database Management
 
