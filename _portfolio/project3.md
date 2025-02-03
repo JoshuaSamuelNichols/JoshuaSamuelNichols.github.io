@@ -16,6 +16,8 @@ Frank Buchman, an American Lutheran pastor, founded an organization in the early
 
 Caux Initiatives of Change is a Switzerland-based non-profit organization dedicated to peacebuilding, trust-building, and ethical leadership. Established in 1946, it operates the Caux Conference and Training Centre, fostering dialogue and collaboration among global leaders, activists, and changemakers. IofC focuses on reconciliation, sustainable development, and social cohesion by empowering individuals and organizations to drive ethical, inclusive change. Through workshops, conferences, and training programs, Caux IofC promotes solutions that address conflict resolution, governance, and social responsibility worldwide.
 
+---
+
 ## The Caux Palace
 
 The Caux Palace and the Villa Maria are owned by the Caux Initiatives of Change Foundation.
@@ -24,10 +26,14 @@ With a long track record in designing and hosting events, Caux Initiatives of Ch
 
 The concept of Hospitality for Change offers a blend of excellence in hospitality with expertise in trustbuilding, peacebuilding and ethical leadership.
 
+---
+
 # Key Achievements
 As a CRM Data Analyst hired through HyperSecureIT Sàrl at Caux Initiatives of Change, I played a critical role in **evaluating and optimizing the organization’s Customer Relationship Management solutions**. My work focused on **conducting in-depth analyses**, **identifying cost-efficient alternatives**, and **providing actionable insights to enhance CRM strategies**. Collaborating closely with cross-functional teams, I **ensured data accuracy**, **analyzed team engagement metrics**, and **recommended industry best practices** to **drive operational efficiency**.
 
 Through **rigorous analysis**, **strategic recommendations**, and **stakeholder collaboration**, I significantly **contributed to optimizing the CRM system** for Caux Initiatives of Change. My efforts **forecasted improvements through data-driven decision-making**, **reduced costs**, and **enhanced overall CRM efficiency**, supporting the organization’s mission in the humanitarian sector.
+
+---
 
 # Summary
 
