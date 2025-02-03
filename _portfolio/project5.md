@@ -1,6 +1,6 @@
 ---
-title: Privacy, Security, and Digital Freedom
-subtitle: Empowering individuals, businesses and organizations with data protection and privacy with genuine open-sourced technologies
+title: Data Privacy, Security, and Digital Freedom
+subtitle: Empowering individuals, businesses and organizations with end-to-end encrypted open-sourced technologies that put privacy first
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
@@ -22,11 +22,15 @@ Proton is a **Swiss-based privacy company** offering **end-to-end encrypted tool
 - **Proton Drive** – Secure cloud storage with end-to-end encryption  
 - **Proton Pass** – A password manager with encrypted notes and 2FA  
 - **Proton Wallet** – A privacy-focused digital wallet  
-- **Proton Sentinel** – A dark web monitoring service to detect data breaches  
+- **Proton Sentinel** – A dark web monitoring service to detect data breaches
+- 
+---
 
 ## **Proton’s Mission: Privacy as a Human Right**  
 
 Proton believes in an internet where **privacy is the default**. Unlike Big Tech, Proton **never tracks, sells, or shares user data**. Their **zero-access encryption** ensures that only you—not Proton, governments, or third parties—can access your data.  
+
+---
 
 ## **Swiss Privacy Protection**  
 
@@ -36,6 +40,8 @@ Switzerland has some of the world’s **strongest privacy laws**, and Proton is 
 - **Not Subject to U.S./EU Laws** – Protected from the CLOUD Act & intelligence-sharing agreements  
 - **Legal Challenges Against Overreach** – Proton fights excessive data requests to protect users  
 
+---
+
 ## **Proton’s Transition to a Non-Profit Foundation**  
 
 In 2024, Proton became the **Proton Foundation**, a **non-profit** dedicated to **privacy, security, and digital rights**. This ensures Proton’s mission stays independent, protecting users rather than maximizing profit. As a foundation, Proton:  
@@ -44,12 +50,15 @@ In 2024, Proton became the **Proton Foundation**, a **non-profit** dedicated to 
 - **Will always prioritize privacy over profit**  
 - **Advocates for stronger digital rights globally**  
 
+---
+
 ## **Interested in taking control of your privacy?**  
 
 With Proton, you can reclaim your digital freedom. Protect your emails, files, passwords, browsing, and finances from surveillance with **Proton’s encrypted ecosystem**.  
 
 🔐 **Click here if you're ready to** [join the fight for data privacy rights](https://go.getproton.me/SH123)  
 
+---
 
 # Summary
 
@@ -101,7 +110,7 @@ With Proton, you can reclaim your digital freedom. Protect your emails, files, p
 
 
 {:.list-inline}
-- Date: June 2023
+- Date: June 2023+
 - Client: Proton
-- Category: Data Privacy, GDPR, End-to-End Encryption
+- Category: GDPR, Data Privacy, Affiliate Marketing
 
