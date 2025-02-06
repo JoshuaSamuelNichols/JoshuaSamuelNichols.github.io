@@ -49,7 +49,7 @@ Through **rigorous analysis**, **strategic recommendations**, and **stakeholder 
 
 ➤ Identified trends and insights to enhance user engagement and CRM efficiency.
 
-➤ Recommended data-driven CRM alternatives that reduced costs from CHF 16,000+ for three years to CHF 1,500 per year.
+➤ Recommended data-driven CRM alternatives that would reduce costs from CHF 16,000+ for three years to CHF 1,500 per year.
 
 ➤ Provided strategic insights on cost-efficient marketing platforms that align with the organization's needs.
 
