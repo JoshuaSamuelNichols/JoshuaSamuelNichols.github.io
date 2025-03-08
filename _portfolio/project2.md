@@ -86,5 +86,5 @@ WSIS Stocktaking 2017, WSIS Forum 2017 Outcome Document
 {:.list-inline}
 - Date: March 2017
 - Client: International Telecommunication Union (ITU)
-- Category: Nonprofit, Sustainable Developement Goals, UN Sector
+- Category: Nonprofit, Sustainable Development Goals, UN Sector
 
