@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Data Analytics"
-        desc: "Impact-Site-Verification: bf4af876-b2d2-482c-baed-18c72bc5a173  I use Python and its powerful libraries (such as Pandas, NumPy, Seaborn and Matplotlib) to create advanced data analytics, SQL for **querying and managing databases**, Jupyter Notebook for **developing and sharing data workflows**, Microsoft Azure for **big data processing** and Excel for **data manipulation**. Using these tools, I create **insightful visualizations** that tell **compelling data-driven stories**, perform exploratory data analyses (EDAs), and deliver both **descriptive** and **prescriptive analytics** to inform **decision-making**."
+        desc: "I use Python and its powerful libraries (such as Pandas, NumPy, Seaborn and Matplotlib) to create advanced data analytics, SQL for **querying and managing databases**, Jupyter Notebook for **developing and sharing data workflows**, Microsoft Azure for **big data processing** and Excel for **data manipulation**. Using these tools, I create **insightful visualizations** that tell **compelling data-driven stories**, perform exploratory data analyses (EDAs), and deliver both **descriptive** and **prescriptive analytics** to inform **decision-making**."
         icon:  fas fa-chart-area #find more at https://fontawesome.com/icons
       - title: "Business Intelligence"
         desc: "With Microsoft Power BI, I transform raw data into **interactive dashboards** and **comprehensive reports** that empower stakeholders to track **KPIs** and business performance. I **integrate diverse data sources** and **develop custom measures** to uncover **actionable insights** and trends that lead to **data-driven strategic decisions**."
