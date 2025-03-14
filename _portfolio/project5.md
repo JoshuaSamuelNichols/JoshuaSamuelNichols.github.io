@@ -1,12 +1,12 @@
 ---
-title: Data Privacy, Security, and Digital Freedom
+title: Data Privacy, Security, and IT Solutions
 subtitle: Empowering individuals, businesses and organizations with end-to-end encrypted open-sourced technologies that put privacy first
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
   title: Data Privacy
-  subtitle: GDPR, Data Privacy, Affiliate Marketing
+  subtitle: GDPR, Data Privacy, IT Solutions
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
 
@@ -94,13 +94,13 @@ With Proton, you can reclaim your digital freedom. Protect your emails, agenda, 
 
 ---
 
-<img src="https://github.com/user-attachments/assets/d8578b6b-3008-404f-966e-a03ad6187508" width="400" />
+<img src="https://github.com/user-attachments/assets/d8578b6b-3008-404f-966e-a03ad6187508" width="300" />
 
-<img src="https://github.com/user-attachments/assets/180c9f5d-fb8b-4615-930d-d93c35117dc8" width="400" />
+<img src="https://github.com/user-attachments/assets/180c9f5d-fb8b-4615-930d-d93c35117dc8" width="300" />
 
-<img src="https://github.com/user-attachments/assets/bddc6801-40fc-4944-a743-a76b1cb01375" width="400" />
+<img src="https://github.com/user-attachments/assets/bddc6801-40fc-4944-a743-a76b1cb01375" width="300" />
 
-<img src="https://github.com/user-attachments/assets/f8e89a21-939a-48e7-b57c-6e496fe64ef3" width="400" />
+<img src="https://github.com/user-attachments/assets/f8e89a21-939a-48e7-b57c-6e496fe64ef3" width="300" />
 
 
 
@@ -112,5 +112,5 @@ With Proton, you can reclaim your digital freedom. Protect your emails, agenda, 
 {:.list-inline}
 - Date: June 2023+
 - Client: Proton
-- Category: GDPR, Data Privacy, Affiliate Marketing
+- Category: GDPR, Data Privacy, IT Solutions
 
