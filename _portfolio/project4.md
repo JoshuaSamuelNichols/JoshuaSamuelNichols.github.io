@@ -20,7 +20,7 @@ This project contains an **SQL database** storing some of my students, their cho
 ---
 <img src="https://github.com/user-attachments/assets/ab47b4ea-8bdc-4d49-9cb6-07239ee94b26" width="400" />
 
-<img src="https://github.com/user-attachments/assets/28331283-6693-48f5-bc46-b495c2a75384" width="400" />
+<img src="https://github.com/user-attachments/assets/28331283-6693-48f5-bc46-b495c2a75384" width="250" />
 
 
 
