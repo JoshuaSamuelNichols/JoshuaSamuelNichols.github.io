@@ -16,17 +16,17 @@ With expertise in data modeling, DAX, and interactive reporting, I thrive on des
 # Dashboards I've Created
 
 
-<img src="https://github.com/user-attachments/assets/2a4aab69-f019-493d-81ab-60da487ab7dc" width="400" />
+<img src="https://github.com/user-attachments/assets/2a4aab69-f019-493d-81ab-60da487ab7dc" width="300" />
 
 ---
 
-<img src="https://github.com/user-attachments/assets/7f189c68-c974-4492-a14d-b91c2008ec83" width="400" />
+<img src="https://github.com/user-attachments/assets/7f189c68-c974-4492-a14d-b91c2008ec83" width="300" />
 
-<img src="https://github.com/user-attachments/assets/ed2a2d05-46f8-408e-8a6a-72a25c24d3a9" width="400" />
+<img src="https://github.com/user-attachments/assets/ed2a2d05-46f8-408e-8a6a-72a25c24d3a9" width="300" />
 
 ---
 
-<img src="https://github.com/user-attachments/assets/b1763a85-836b-4981-99f4-7a0ceb6b8ff1" width="400" />
+<img src="https://github.com/user-attachments/assets/b1763a85-836b-4981-99f4-7a0ceb6b8ff1" width="300" />
 
 ---
 
