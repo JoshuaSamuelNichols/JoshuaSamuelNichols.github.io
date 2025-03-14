@@ -14,13 +14,14 @@ caption:
 
 This project contains an **SQL database** storing some of my students, their chosen **instruments**, and **years** of enrollment throughout the previous years. For data privacy purposes, this is a consolidated version of my database to showcase the minimal design, and not all of the confidential material.
 
-![NMS Full Code](https://github.com/user-attachments/assets/1488bac1-f3f0-4895-a736-8a80775ef751)
+
+<img src="https://github.com/user-attachments/assets/1488bac1-f3f0-4895-a736-8a80775ef751" width="400" />
 
 ---
+<img src="https://github.com/user-attachments/assets/ab47b4ea-8bdc-4d49-9cb6-07239ee94b26" width="400" />
 
-![Most Popular Instrument](https://github.com/user-attachments/assets/ab47b4ea-8bdc-4d49-9cb6-07239ee94b26)
+<img src="https://github.com/user-attachments/assets/28331283-6693-48f5-bc46-b495c2a75384" width="400" />
 
-![image](https://github.com/user-attachments/assets/28331283-6693-48f5-bc46-b495c2a75384)
 
 
 {:.list-inline}
