@@ -65,13 +65,13 @@ Through **rigorous analysis**, **strategic recommendations**, and **stakeholder 
 
 ---
 
-<img src="https://github.com/user-attachments/assets/3fbbfff1-8ff5-4dc2-829a-93370a496fb1" width="400" />
+<img src="https://github.com/user-attachments/assets/3fbbfff1-8ff5-4dc2-829a-93370a496fb1" width="300" />
 
-<img src="https://github.com/user-attachments/assets/c43aba56-dd2a-4f42-98e1-3d33bef25b9e" width="400" />
+<img src="https://github.com/user-attachments/assets/c43aba56-dd2a-4f42-98e1-3d33bef25b9e" width="300" />
 
-<img src="https://github.com/user-attachments/assets/38862eb9-3e65-4ecd-9fed-e3e637dda61b" width="400" />
+<img src="https://github.com/user-attachments/assets/38862eb9-3e65-4ecd-9fed-e3e637dda61b" width="300" />
 
-<img src="https://github.com/user-attachments/assets/fccca2a9-86ef-4c2a-b17d-ef5bbf36c67e" width="400" />
+<img src="https://github.com/user-attachments/assets/fccca2a9-86ef-4c2a-b17d-ef5bbf36c67e" width="300" />
 
 
 
