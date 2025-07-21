@@ -56,7 +56,7 @@ en: &DEFAULT_EN
         alt:
       - title: "ITU - Junior Project Officer"
         year: "2017"
-        desc: "I managed databases, supported projects, and created data-driven reports for this technology-focused NGO. I organized and contributed the WSIS 2017 Prizes ceremonies, supported sustainability through social media campaigns, and created analytics to guide organizational efforts."
+        desc: "I managed databases, projects, and created data-driven reports for this technology and AI-focused NGO. I organized and contributed the WSIS 2017 Prizes ceremonies, supported sustainability through social media campaigns, and created analytics to guide organizational efforts."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "HyperSecureIT Sàrl - CRM Data Analyst"
