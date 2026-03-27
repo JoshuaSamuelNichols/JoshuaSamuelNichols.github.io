@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Hey, I'm Joshua
+    title: Hey, I'm Joshua Samuel Nichols
     text: Let's Talk Data
     button: TELL ME MORE
     buttonlink: "#services"
@@ -64,13 +64,19 @@ en: &DEFAULT_EN
         desc: "I analyzed CRM data, recommended cost-effective marketing platforms, and provided actionable insights through reports. By conducting needs assessments and research interviews, I helped streamline operations and align solutions with team requirements."
         image: assets/img/timeline/4.jpg
         alt:
-      - title: "Proton - Affiliate Partner"
-        year: "2023 - 2025"
-        desc: "As an advocate for online privacy, I partnered with Proton to educate and inspire audiences about data security. I create content and lead sessions on privacy rights while matching user needs with Proton’s encrypted technologies, helping individuals encrypt their digital lives."
+      - title: "!Audacious Church Geneva - Finance Administrator"
+        year: "2025 - Current"
+        desc: "I manage daily financial tasks like payables, receivables, reconciliations, and expenses while maintaining accurate records, reports, and budgets."
         image: assets/img/timeline/5.jpg
         alt:
-        # you can enforce the alignment
         align: left
+      - title: "Nashville Music School LLC - Founder & CEO"
+        year: "2015 - Current"
+        desc: "Founded in 2015 in the Rhône-Alpes, France region, with a desire to make professional-level music training simple and rooted in purpose. I developed and integrated my original fast-tracking curriculum into a digital music education platform where intentional mentorship, clear methodology, and innovative music tools come together to empower every student to reach their full potential."
+        image: assets/img/timeline/6.jpg
+        alt:
+        # you can enforce the alignment
+        align:
     end: "I <br> am <br> here!"
 
   about:
